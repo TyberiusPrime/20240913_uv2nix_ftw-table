@@ -1,0 +1,9 @@
+
+[project]
+name = "app"
+version = "0.1.0"
+description = "Learn to build ftw-table"
+requires-python = "~=3.9"
+dependencies = [
+    "ftw-table==1.22.0",
+]
